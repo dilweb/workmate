@@ -40,4 +40,6 @@ workmate --files stats1.csv stats2.csv --report clickbait
 ```bash
 pytest
 ```
+## Пример запуска
+![alt text](image.png)
 # workmate
